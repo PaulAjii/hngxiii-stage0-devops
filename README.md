@@ -7,5 +7,5 @@ This repository contains my HNG13 Stage 0 DevOps submission. It demonstrates for
 ## Details
 
 - Name: Paul Ajijola
-- Slack Username: @peepeeajii
-- Server IP/Domain: http://3.95.62.27/
+- Slack Username: @PeePeeAjii
+- Server IP/Domain: http://54.221.40.206/
